@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/oling-landing/static/css/main.64935188.css",
-    "main.js": "/oling-landing/static/js/main.9c3535da.js",
+    "main.js": "/oling-landing/static/js/main.034c8f28.js",
     "static/media/pattern-1.jpg": "/oling-landing/static/media/pattern-1.861e88bff84d4ac06f78.jpg",
     "static/media/pattern-2.jpg": "/oling-landing/static/media/pattern-2.7db92b713b1164867e97.jpg",
+    "static/media/oling.mp4": "/oling-landing/static/media/oling.5b85da2064599491ce66.mp4",
     "static/media/home_back.png": "/oling-landing/static/media/home_back.9868d7b4a2b230db2a15.png",
     "static/media/pattern.jpg": "/oling-landing/static/media/pattern.390b27c1ded4fa84f5f3.jpg",
     "static/media/la-brands-400.svg": "/oling-landing/static/media/la-brands-400.928495fae14841a0d610.svg",
@@ -83,10 +84,10 @@
     "static/media/logo.svg": "/oling-landing/static/media/logo.0427ba8461e0017f736d16fdfb7c7691.svg",
     "index.html": "/oling-landing/index.html",
     "main.64935188.css.map": "/oling-landing/static/css/main.64935188.css.map",
-    "main.9c3535da.js.map": "/oling-landing/static/js/main.9c3535da.js.map"
+    "main.034c8f28.js.map": "/oling-landing/static/js/main.034c8f28.js.map"
   },
   "entrypoints": [
     "static/css/main.64935188.css",
-    "static/js/main.9c3535da.js"
+    "static/js/main.034c8f28.js"
   ]
 }
