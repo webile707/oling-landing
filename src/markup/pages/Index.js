@@ -41,6 +41,8 @@ import personalized_image_main from '../../assets/images/screenshots/home_main.p
 import track_image_back from '../../assets/images/screenshots/track_back.png';
 import track_image_main from '../../assets/images/screenshots/track_main.png';
 
+import our_video from '../../assets/videos/oling.mp4';
+
 // data
 import blog from '../data/blog';
 import features from '../data/features';
@@ -153,7 +155,7 @@ const Index = () => {
                                             <img className="drop-shadow-1" src={video_img} width='471' height='472' alt="drop-shadow" />
 
                                             <div className="play">
-                                                <VideoLightBox URL='https://www.youtube.com/watch?v=WIl5F5rM5wQ' />
+                                                <VideoLightBox URL={our_video} />
                                             </div>
                                         </figure>
                                     </div>
@@ -281,7 +283,7 @@ const Index = () => {
             {/* feature section - end */}
 
             {/* feature section - start */}
-            <section id="feature_detail_3">
+            <section id="feature_detail_6">
                 <div className="feature-section feature-section-0 feature-section-spacing-1">
                     <div className="feature-section-wrapper">
                         <div className="container">
@@ -319,7 +321,7 @@ const Index = () => {
             {/* feature section - end */}
 
             {/* feature section - start */}
-            <section id="feature_detail_4">
+            <section id="feature_detail_3">
                 <div className="feature-section feature-section-1 feature-section-spacing-2">
                     <div className="feature-section-wrapper">
                         <div className="container">
@@ -357,7 +359,7 @@ const Index = () => {
             {/* feature section - end */}
 
             {/* feature section - start */}
-            <section id="feature_detail_5">
+            <section id="feature_detail_4">
                 <div className="feature-section feature-section-0 feature-section-spacing-1">
                     <div className="feature-section-wrapper">
                         <div className="container">
@@ -395,7 +397,7 @@ const Index = () => {
             {/* feature section - end */}
 
             {/* feature section - start */}
-            <section id="feature_detail_6">
+            <section id="feature_detail_5">
                 <div className="feature-section feature-section-1 feature-section-spacing-2">
                     <div className="feature-section-wrapper">
                         <div className="container">
