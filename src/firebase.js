@@ -12,6 +12,8 @@ const firebaseConfig = {
         appId: "1:177145394629:web:76d76459f1b0a9739887ac"
 };
 
+//keys are test and do not work. you need to use a secret manager as repo is public
+
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 
