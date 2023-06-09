@@ -5,17 +5,29 @@ import { collection, addDoc } from "firebase/firestore";
 
 const ContactForm1 = () => {
     const [email, setEmail] = useState('');
+    const [error, setError] = useState('');
+    const [success, setSuccess] = useState(false);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
+
+        // Email validation using regex
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        if (!emailRegex.test(email)) {
+            setError('Invalid email format');
+            setSuccess(false);
+            return;
+        }
 
         try {
             const docRef = await addDoc(collection(db, "newsletter"), {
                 email: email
             });
-            console.log("Document written with ID: ", docRef.id);
+            console.log("Dcument written with ID: ", docRef.id);
             // Clear the form field
             setEmail('');
+            setError('');
+            setSuccess(true);
         } catch (error) {
             console.error("Error adding document: ", error);
         }
@@ -53,6 +65,8 @@ const ContactForm1 = () => {
                             </span>
                         </span>
                     </button>
+                    {error && <div className="error-message">{error}</div>}
+                    {success && <div className="success-message">Thank you for subscribing!</div>}
                 </form>
             </div>
         </div>
