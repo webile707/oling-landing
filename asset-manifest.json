@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb0a62b1.css",
-    "main.js": "/static/js/main.9a9df933.js",
+    "main.css": "/static/css/main.ef2404fb.css",
+    "main.js": "/static/js/main.3c8297fd.js",
     "static/media/pattern-1.jpg": "/static/media/pattern-1.861e88bff84d4ac06f78.jpg",
     "static/media/pattern-2.jpg": "/static/media/pattern-2.7db92b713b1164867e97.jpg",
     "static/media/oling.mp4": "/static/media/oling.5b85da2064599491ce66.mp4",
@@ -83,11 +83,11 @@
     "static/media/logo-white.svg": "/static/media/logo-white.3adf515128f11da41c1990fbb33c8c42.svg",
     "static/media/logo.svg": "/static/media/logo.0427ba8461e0017f736d16fdfb7c7691.svg",
     "index.html": "/index.html",
-    "main.bb0a62b1.css.map": "/static/css/main.bb0a62b1.css.map",
-    "main.9a9df933.js.map": "/static/js/main.9a9df933.js.map"
+    "main.ef2404fb.css.map": "/static/css/main.ef2404fb.css.map",
+    "main.3c8297fd.js.map": "/static/js/main.3c8297fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb0a62b1.css",
-    "static/js/main.9a9df933.js"
+    "static/css/main.ef2404fb.css",
+    "static/js/main.3c8297fd.js"
   ]
 }
