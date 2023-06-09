@@ -1,9 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ef2404fb.css",
-    "main.js": "/static/js/main.3c8297fd.js",
-    "static/media/pattern-1.jpg": "/static/media/pattern-1.861e88bff84d4ac06f78.jpg",
-    "static/media/pattern-2.jpg": "/static/media/pattern-2.7db92b713b1164867e97.jpg",
+    "main.js": "/static/js/main.289131f8.js",
     "static/media/oling.mp4": "/static/media/oling.5b85da2064599491ce66.mp4",
     "static/media/home_back.png": "/static/media/home_back.9868d7b4a2b230db2a15.png",
     "static/media/pattern.jpg": "/static/media/pattern.390b27c1ded4fa84f5f3.jpg",
@@ -84,10 +82,10 @@
     "static/media/logo.svg": "/static/media/logo.0427ba8461e0017f736d16fdfb7c7691.svg",
     "index.html": "/index.html",
     "main.ef2404fb.css.map": "/static/css/main.ef2404fb.css.map",
-    "main.3c8297fd.js.map": "/static/js/main.3c8297fd.js.map"
+    "main.289131f8.js.map": "/static/js/main.289131f8.js.map"
   },
   "entrypoints": [
     "static/css/main.ef2404fb.css",
-    "static/js/main.3c8297fd.js"
+    "static/js/main.289131f8.js"
   ]
 }
