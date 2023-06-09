@@ -17,8 +17,8 @@ import ImageSlider from '../components/ImageSlider';
 
 // images
 import video_img from '../../assets/images/screenshots/video.jpg';
-import background_image_1 from '../../assets/images/patterns/pattern-1.jpg';
-import background_image_2 from '../../assets/images/patterns/pattern-2.jpg';
+// import background_image_1 from '../../assets/images/patterns/pattern-1.jpg';
+// import background_image_2 from '../../assets/images/patterns/pattern-2.jpg';
 
 import home_image_back from '../../assets/images/screenshots/home_back.png';
 import home_image_main from '../../assets/images/screenshots/home_main.png';
@@ -457,7 +457,7 @@ const Index = () => {
                             <BackgroundAnimation />
                             <div className="background-pattern-gradient"></div>
                             <div className="background-pattern-bottom">
-                                <div className="image" style={{ backgroundImage: `url(${background_image_1})` }}></div>
+                                {/* <div className="image" style={{ backgroundImage: `url(${background_image_1})` }}></div> */}
                             </div>
                         </div>
                     </div>
@@ -578,7 +578,7 @@ const Index = () => {
                         <BackgroundAnimation />
                         <div className="background-pattern-gradient"></div>
                         <div className="background-pattern-bottom">
-                            <div className="image" style={{ backgroundImage: `url(${background_image_2})` }}></div>
+                            {/* <div className="image" style={{ backgroundImage: `url(${background_image_2})` }}></div> */}
                         </div>
                     </div>
                 </div>

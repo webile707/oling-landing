@@ -12,7 +12,7 @@ import Button from '../components/Button';
 
 // images
 import thumbnail from '../../assets/images/blog/blog-read-img.jpg';
-import background_image_1 from '../../assets/images/patterns/pattern-1.jpg';
+// import background_image_1 from '../../assets/images/patterns/pattern-1.jpg';
 
 const BlogDetail1 = () => {
 
@@ -155,7 +155,7 @@ const BlogDetail1 = () => {
                         <BackgroundAnimation/>
                         <div className="background-pattern-gradient"></div>
                         <div className="background-pattern-bottom">
-                            <div className="image" style={{backgroundImage: `url(${background_image_1})`}}></div>
+                            {/* <div className="image" style={{backgroundImage: `url(${background_image_1})`}}></div> */}
                         </div>
                     </div>
                 </div>

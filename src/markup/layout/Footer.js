@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 // images
 import logo from '../../assets/images/logo.svg';
-import background_image_1 from '../../assets/images/patterns/pattern-1.jpg';
+// import background_image_1 from '../../assets/images/patterns/pattern-1.jpg';
 
 const Footer = () => {
     return (
@@ -128,7 +128,7 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
-                <div className="footer-pattern" style={{backgroundImage: `url(${background_image_1})`}}></div>
+                {/* <div className="footer-pattern" style={{backgroundImage: `url(${background_image_1})`}}></div> */}
             </div>
         </footer>
     );

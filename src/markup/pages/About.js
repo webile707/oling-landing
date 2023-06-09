@@ -10,7 +10,7 @@ import BackgroundAnimation from '../components/BackgroundAnimation';
 import faq from '../data/faq';
 
 // images
-import background_image_1 from '../../assets/images/patterns/pattern-1.jpg';
+// import background_image_1 from '../../assets/images/patterns/pattern-1.jpg';
 import about_image from '../../assets/images/about-image-1.jpg';
 import AppFeatureSingle from '../components/AppFeatureSingle';
 
@@ -146,7 +146,7 @@ const About = () => {
                         <BackgroundAnimation/>
                         <div className="background-pattern-gradient"></div>
                         <div className="background-pattern-bottom">
-                            <div className="image" style={{backgroundImage: `url(${background_image_1})`}}></div>
+                            {/* <div className="image" style={{backgroundImage: `url(${background_image_1})`}}></div> */}
                         </div>
                     </div>
                 </div>

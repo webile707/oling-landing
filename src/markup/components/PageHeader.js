@@ -1,7 +1,7 @@
 import React from 'react';
 
 // images
-import background_image_2 from '../../assets/images/patterns/pattern-2.jpg';
+// import background_image_2 from '../../assets/images/patterns/pattern-2.jpg';
 import { Link } from 'react-router-dom';
 import BackgroundAnimation from './BackgroundAnimation';
 
@@ -50,7 +50,7 @@ const PageHeader = ({ title, pages }) => {
                     <BackgroundAnimation/>
                     <div className="background-pattern-gradient"></div>
                     <div className="background-pattern-bottom">
-                        <div className="image" style={{backgroundImage: `url(${background_image_2})`}}></div>
+                        {/* <div className="image" style={{backgroundImage: `url(${background_image_2})`}}></div> */}
                     </div>
                 </div>
             </div>

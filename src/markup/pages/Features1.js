@@ -12,7 +12,7 @@ import DownloadButton from '../components/DownloadButton';
 
 import feature_phone_2 from '../../assets/images/feature-section-2-phone.png';
 import feature_image_2 from '../../assets/images/feature-section-2-img.jpg';
-import background_image_2 from '../../assets/images/patterns/pattern-2.jpg';
+// import background_image_2 from '../../assets/images/patterns/pattern-2.jpg';
 import video_img from '../../assets/images/video-img.jpg';
 
 import features from '../data/features';
@@ -143,7 +143,7 @@ const Features1 = () => {
                     <BackgroundAnimation/>
                     <div className="background-pattern-gradient"></div>
                     <div className="background-pattern-bottom">
-                        <div className="image" style={{backgroundImage: `url(${background_image_2})`}}></div>
+                        {/* <div className="image" style={{backgroundImage: `url(${background_image_2})`}}></div> */}
                     </div>
                 </div>
             </div>
