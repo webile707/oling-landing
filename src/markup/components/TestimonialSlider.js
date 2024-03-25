@@ -14,17 +14,17 @@ const TestimonialSlider = () => {
     const data = [
         {
             image: testimonial_image_1,
-            testimony: '“OLING revolutionized my language learning experience. The personalized approach and diverse learning content kept me engaged and motivated. I saw significant progress in my fluency within a short period. Highly recommended!”',
+            testimony: '“DOIA revolutionized my language learning experience. The personalized approach and diverse learning content kept me engaged and motivated. I saw significant progress in my fluency within a short period. Highly recommended!”',
             name: 'Mark H.'
         },
         {
             image: testimonial_image_2,
-            testimony: '“I have tried various language learning platforms, but OLING stands out. The real-time progress tracking and detailed analytics helped me stay on track and celebrate my achievements. The intelligent chatbot was a game-changer, providing valuable practice and feedback. OLING truly made language learning enjoyable.”',
+            testimony: '“I have tried various language learning platforms, but DOIA stands out. The real-time progress tracking and detailed analytics helped me stay on track and celebrate my achievements. The intelligent chatbot was a game-changer, providing valuable practice and feedback. DOIA truly made language learning enjoyable.”',
             name: 'Sarah T.'
         },
         {
             image: testimonial_image_3,
-            testimony: '“Joining the OLING community was the best decision I made for my language learning journey. The vibrant community of learners and interactive features like Q&A sessions and classes made the process collaborative and exciting. Thanks to OLING, I not only improved my language skills but also made friends from around the world.”',
+            testimony: '“Joining the DOIA community was the best decision I made for my language learning journey. The vibrant community of learners and interactive features like Q&A sessions and classes made the process collaborative and exciting. Thanks to DOIA, I not only improved my language skills but also made friends from around the world.”',
             name: 'Emily M.'
         }
     ];

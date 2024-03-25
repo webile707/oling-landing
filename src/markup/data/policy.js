@@ -5,21 +5,21 @@ const policy = [
         content: (
             <>
                 <p className="paragraph-big">Last updated on May 25, 2021</p>
-                <h3 className="c-dark">What is OLING?</h3>
+                <h3 className="c-dark">What is DOIA?</h3>
                 <p>There grass said shall won't thing moved shall sea all male two is. Fowl man sixth gathering heaven was brought air fill dry further abundantly them be from won't every have cattle darkness moveth every the darkness may which evening she'd thing own man is there said gathering be the in lesser called.</p>
                 <p>Our, that subdue open above creature i forth make and third beast bring had creeping stars brought together. Creepeth creature by open us our appear creeping bring they're darkness may which evening she'd thing days.</p>
-                <h3 className="c-dark">How does OLING collect data about me?</h3>
-                <p>OLING colelcts data about you:</p>
+                <h3 className="c-dark">How does DOIA collect data about me?</h3>
+                <p>DOIA colelcts data about you:</p>
                 <ul className="icon-list icon-list-1">
-                    <li><span>When you browse OLING.com.</span></li>
-                    <li><span>When you use OLINGs content delivery networks, or visit websites that do.</span></li>
-                    <li><span>When you create and use an account on OLING.com.</span></li>
-                    <li><span>When you buy products and services from OLING through the OLING.com web store.</span></li>
+                    <li><span>When you browse DOIA.com.</span></li>
+                    <li><span>When you use DOIAs content delivery networks, or visit websites that do.</span></li>
+                    <li><span>When you create and use an account on DOIA.com.</span></li>
+                    <li><span>When you buy products and services from DOIA through the DOIA.com web store.</span></li>
                     <li><span>When you contact Font Awesome by e-mail for support or other help.</span></li>
-                    <li><span>OLING does not buy or otherwise receive data about you from data brokers.</span></li>
+                    <li><span>DOIA does not buy or otherwise receive data about you from data brokers.</span></li>
                 </ul>
-                <p>OLING does not buy or otherwise receive data about you from data brokers.</p>
-                <h3 className="c-dark">What data does OLING collect about me, and why?</h3>
+                <p>DOIA does not buy or otherwise receive data about you from data brokers.</p>
+                <h3 className="c-dark">What data does DOIA collect about me, and why?</h3>
                 <p>There grass said shall won't thing moved shall sea all male two is. Fowl man sixth gathering heaven was brought air fill dry further abundantly them be from won't every have cattle darkness moveth every the darkness may which evening she'd thing own man is there said gathering be the in lesser called.</p>
                 <p>Our, that subdue open above creature i forth make and third beast bring had creeping stars brought together. Creepeth creature by open us our appear creeping bring they're darkness may which evening she'd thing days.</p>
                 <ul className="icon-list icon-list-2">
@@ -57,21 +57,21 @@ const policy = [
         content: (
             <>
                 <p className="paragraph-big">Last updated on May 25, 2021</p>
-                <h3 className="c-dark">What is OLING?</h3>
+                <h3 className="c-dark">What is DOIA?</h3>
                 <p>There grass said shall won't thing moved shall sea all male two is. Fowl man sixth gathering heaven was brought air fill dry further abundantly them be from won't every have cattle darkness moveth every the darkness may which evening she'd thing own man is there said gathering be the in lesser called.</p>
                 <p>Our, that subdue open above creature i forth make and third beast bring had creeping stars brought together. Creepeth creature by open us our appear creeping bring they're darkness may which evening she'd thing days.</p>
-                <h3 className="c-dark">How does OLING collect data about me?</h3>
-                <p>OLING colelcts data about you:</p>
+                <h3 className="c-dark">How does DOIA collect data about me?</h3>
+                <p>DOIA colelcts data about you:</p>
                 <ul className="icon-list icon-list-1">
-                    <li><span>When you browse OLING.com.</span></li>
-                    <li><span>When you use OLINGs content delivery networks, or visit websites that do.</span></li>
-                    <li><span>When you create and use an account on OLING.com.</span></li>
-                    <li><span>When you buy products and services from OLING through the OLING.com web store.</span></li>
+                    <li><span>When you browse DOIA.com.</span></li>
+                    <li><span>When you use DOIAs content delivery networks, or visit websites that do.</span></li>
+                    <li><span>When you create and use an account on DOIA.com.</span></li>
+                    <li><span>When you buy products and services from DOIA through the DOIA.com web store.</span></li>
                     <li><span>When you contact Font Awesome by e-mail for support or other help.</span></li>
-                    <li><span>OLING does not buy or otherwise receive data about you from data brokers.</span></li>
+                    <li><span>DOIA does not buy or otherwise receive data about you from data brokers.</span></li>
                 </ul>
-                <p>OLING does not buy or otherwise receive data about you from data brokers.</p>
-                <h3 className="c-dark">What data does OLING collect about me, and why?</h3>
+                <p>DOIA does not buy or otherwise receive data about you from data brokers.</p>
+                <h3 className="c-dark">What data does DOIA collect about me, and why?</h3>
                 <p>There grass said shall won't thing moved shall sea all male two is. Fowl man sixth gathering heaven was brought air fill dry further abundantly them be from won't every have cattle darkness moveth every the darkness may which evening she'd thing own man is there said gathering be the in lesser called.</p>
                 <p>Our, that subdue open above creature i forth make and third beast bring had creeping stars brought together. Creepeth creature by open us our appear creeping bring they're darkness may which evening she'd thing days.</p>
                 <ul className="icon-list icon-list-2">
@@ -109,21 +109,21 @@ const policy = [
         content: (
             <>
                 <p className="paragraph-big">Last updated on May 25, 2021</p>
-                <h3 className="c-dark">What is OLING?</h3>
+                <h3 className="c-dark">What is DOIA?</h3>
                 <p>There grass said shall won't thing moved shall sea all male two is. Fowl man sixth gathering heaven was brought air fill dry further abundantly them be from won't every have cattle darkness moveth every the darkness may which evening she'd thing own man is there said gathering be the in lesser called.</p>
                 <p>Our, that subdue open above creature i forth make and third beast bring had creeping stars brought together. Creepeth creature by open us our appear creeping bring they're darkness may which evening she'd thing days.</p>
-                <h3 className="c-dark">How does OLING collect data about me?</h3>
-                <p>OLING colelcts data about you:</p>
+                <h3 className="c-dark">How does DOIA collect data about me?</h3>
+                <p>DOIA colelcts data about you:</p>
                 <ul className="icon-list icon-list-1">
-                    <li><span>When you browse OLING.com.</span></li>
-                    <li><span>When you use OLINGs content delivery networks, or visit websites that do.</span></li>
-                    <li><span>When you create and use an account on OLING.com.</span></li>
-                    <li><span>When you buy products and services from OLING through the OLING.com web store.</span></li>
+                    <li><span>When you browse DOIA.com.</span></li>
+                    <li><span>When you use DOIAs content delivery networks, or visit websites that do.</span></li>
+                    <li><span>When you create and use an account on DOIA.com.</span></li>
+                    <li><span>When you buy products and services from DOIA through the DOIA.com web store.</span></li>
                     <li><span>When you contact Font Awesome by e-mail for support or other help.</span></li>
-                    <li><span>OLING does not buy or otherwise receive data about you from data brokers.</span></li>
+                    <li><span>DOIA does not buy or otherwise receive data about you from data brokers.</span></li>
                 </ul>
-                <p>OLING does not buy or otherwise receive data about you from data brokers.</p>
-                <h3 className="c-dark">What data does OLING collect about me, and why?</h3>
+                <p>DOIA does not buy or otherwise receive data about you from data brokers.</p>
+                <h3 className="c-dark">What data does DOIA collect about me, and why?</h3>
                 <p>There grass said shall won't thing moved shall sea all male two is. Fowl man sixth gathering heaven was brought air fill dry further abundantly them be from won't every have cattle darkness moveth every the darkness may which evening she'd thing own man is there said gathering be the in lesser called.</p>
                 <p>Our, that subdue open above creature i forth make and third beast bring had creeping stars brought together. Creepeth creature by open us our appear creeping bring they're darkness may which evening she'd thing days.</p>
                 <ul className="icon-list icon-list-2">
@@ -161,21 +161,21 @@ const policy = [
         content: (
             <>
                 <p className="paragraph-big">Last updated on May 25, 2021</p>
-                <h3 className="c-dark">What is OLING?</h3>
+                <h3 className="c-dark">What is DOIA?</h3>
                 <p>There grass said shall won't thing moved shall sea all male two is. Fowl man sixth gathering heaven was brought air fill dry further abundantly them be from won't every have cattle darkness moveth every the darkness may which evening she'd thing own man is there said gathering be the in lesser called.</p>
                 <p>Our, that subdue open above creature i forth make and third beast bring had creeping stars brought together. Creepeth creature by open us our appear creeping bring they're darkness may which evening she'd thing days.</p>
-                <h3 className="c-dark">How does OLING collect data about me?</h3>
-                <p>OLING colelcts data about you:</p>
+                <h3 className="c-dark">How does DOIA collect data about me?</h3>
+                <p>DOIA colelcts data about you:</p>
                 <ul className="icon-list icon-list-1">
-                    <li><span>When you browse OLING.com.</span></li>
-                    <li><span>When you use OLINGs content delivery networks, or visit websites that do.</span></li>
-                    <li><span>When you create and use an account on OLING.com.</span></li>
-                    <li><span>When you buy products and services from OLING through the OLING.com web store.</span></li>
+                    <li><span>When you browse DOIA.com.</span></li>
+                    <li><span>When you use DOIAs content delivery networks, or visit websites that do.</span></li>
+                    <li><span>When you create and use an account on DOIA.com.</span></li>
+                    <li><span>When you buy products and services from DOIA through the DOIA.com web store.</span></li>
                     <li><span>When you contact Font Awesome by e-mail for support or other help.</span></li>
-                    <li><span>OLING does not buy or otherwise receive data about you from data brokers.</span></li>
+                    <li><span>DOIA does not buy or otherwise receive data about you from data brokers.</span></li>
                 </ul>
-                <p>OLING does not buy or otherwise receive data about you from data brokers.</p>
-                <h3 className="c-dark">What data does OLING collect about me, and why?</h3>
+                <p>DOIA does not buy or otherwise receive data about you from data brokers.</p>
+                <h3 className="c-dark">What data does DOIA collect about me, and why?</h3>
                 <p>There grass said shall won't thing moved shall sea all male two is. Fowl man sixth gathering heaven was brought air fill dry further abundantly them be from won't every have cattle darkness moveth every the darkness may which evening she'd thing own man is there said gathering be the in lesser called.</p>
                 <p>Our, that subdue open above creature i forth make and third beast bring had creeping stars brought together. Creepeth creature by open us our appear creeping bring they're darkness may which evening she'd thing days.</p>
                 <ul className="icon-list icon-list-2">
@@ -213,21 +213,21 @@ const policy = [
         content: (
             <>
                 <p className="paragraph-big">Last updated on May 25, 2021</p>
-                <h3 className="c-dark">What is OLING?</h3>
+                <h3 className="c-dark">What is DOIA?</h3>
                 <p>There grass said shall won't thing moved shall sea all male two is. Fowl man sixth gathering heaven was brought air fill dry further abundantly them be from won't every have cattle darkness moveth every the darkness may which evening she'd thing own man is there said gathering be the in lesser called.</p>
                 <p>Our, that subdue open above creature i forth make and third beast bring had creeping stars brought together. Creepeth creature by open us our appear creeping bring they're darkness may which evening she'd thing days.</p>
-                <h3 className="c-dark">How does OLING collect data about me?</h3>
-                <p>OLING colelcts data about you:</p>
+                <h3 className="c-dark">How does DOIA collect data about me?</h3>
+                <p>DOIA colelcts data about you:</p>
                 <ul className="icon-list icon-list-1">
-                    <li><span>When you browse OLING.com.</span></li>
-                    <li><span>When you use OLINGs content delivery networks, or visit websites that do.</span></li>
-                    <li><span>When you create and use an account on OLING.com.</span></li>
-                    <li><span>When you buy products and services from OLING through the OLING.com web store.</span></li>
+                    <li><span>When you browse DOIA.com.</span></li>
+                    <li><span>When you use DOIAs content delivery networks, or visit websites that do.</span></li>
+                    <li><span>When you create and use an account on DOIA.com.</span></li>
+                    <li><span>When you buy products and services from DOIA through the DOIA.com web store.</span></li>
                     <li><span>When you contact Font Awesome by e-mail for support or other help.</span></li>
-                    <li><span>OLING does not buy or otherwise receive data about you from data brokers.</span></li>
+                    <li><span>DOIA does not buy or otherwise receive data about you from data brokers.</span></li>
                 </ul>
-                <p>OLING does not buy or otherwise receive data about you from data brokers.</p>
-                <h3 className="c-dark">What data does OLING collect about me, and why?</h3>
+                <p>DOIA does not buy or otherwise receive data about you from data brokers.</p>
+                <h3 className="c-dark">What data does DOIA collect about me, and why?</h3>
                 <p>There grass said shall won't thing moved shall sea all male two is. Fowl man sixth gathering heaven was brought air fill dry further abundantly them be from won't every have cattle darkness moveth every the darkness may which evening she'd thing own man is there said gathering be the in lesser called.</p>
                 <p>Our, that subdue open above creature i forth make and third beast bring had creeping stars brought together. Creepeth creature by open us our appear creeping bring they're darkness may which evening she'd thing days.</p>
                 <ul className="icon-list icon-list-2">

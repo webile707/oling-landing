@@ -62,10 +62,10 @@ const Index = () => {
                             <div className="row">
                                 <div className="col-lg-6 offset-lg-0 order-lg-1 col-10 offset-1 order-2">
                                     <div className="hero-content">
-                                        <h1 className="c-dark">Welcome to OLING</h1>
+                                        <h1 className="c-dark">Welcome to DOIA</h1>
                                         <p className="xlarge c-grey">Personalized Language Learning Application for Everyone
                                         </p>
-                                        <p className="large c-grey">Mastering a new language has never been easier with OLING. Our innovative language learning platform combines cutting-edge technology and personalized learning techniques to help you achieve fluency faster and more effectively. Whether you're a beginner or an advanced learner, OLING has the tools and resources to cater to your unique language learning needs.</p>
+                                        <p className="large c-grey">Mastering a new language has never been easier with DOIA. Our innovative language learning platform combines cutting-edge technology and personalized learning techniques to help you achieve fluency faster and more effectively. Whether you're a beginner or an advanced learner, DOIA has the tools and resources to cater to your unique language learning needs.</p>
                                         <DownloadButton color='c-white' />
                                     </div>
                                 </div>
@@ -139,7 +139,7 @@ const Index = () => {
                                                 <h5>Our video</h5>
                                             </div>
                                             <div className="main-heading">
-                                                <h1>OLING is AI-powered language learning app that was built for both Android and iOS platforms as well as Web platform.</h1>
+                                                <h1>DOIA is AI-powered language learning app that was built for both Android and iOS platforms as well as Web platform.</h1>
                                             </div>
                                         </div>
                                         <Button
@@ -184,7 +184,7 @@ const Index = () => {
                                             heading='app features'
                                             subHeading='Discover the Power of Personalization'
                                         />
-                                        <p className="c-grey">At OLING, we understand that every learner is different. That's why our system starts by evaluating your language skills in vocabulary and grammar across reading, writing, speaking, and listening. Using sophisticated algorithms, we create a proficiency profile tailored specifically to you. This allows us to recommend the best-fit learning chapters, ensuring that your language learning journey is optimized for maximum progress.</p>
+                                        <p className="c-grey">At DOIA, we understand that every learner is different. That's why our system starts by evaluating your language skills in vocabulary and grammar across reading, writing, speaking, and listening. Using sophisticated algorithms, we create a proficiency profile tailored specifically to you. This allows us to recommend the best-fit learning chapters, ensuring that your language learning journey is optimized for maximum progress.</p>
                                         {/* <div className="icon-text-group">
                                         <div className="icon-text">
                                             <i className="las la-server"></i>
@@ -244,7 +244,7 @@ const Index = () => {
                                             heading='app features'
                                             subHeading='Flexible and Engaging Learning Content'
                                         />
-                                        <p className="c-grey">Our extensive learning database offers a wide range of content, including conversations, dialogs, texts, and interactive multiple-choice questions (MCQs). With OLING, you have the freedom to generate chapters based on your interests, topics, and learning environment. Dive into engaging learning units that keep you motivated and excited to learn.</p>
+                                        <p className="c-grey">Our extensive learning database offers a wide range of content, including conversations, dialogs, texts, and interactive multiple-choice questions (MCQs). With DOIA, you have the freedom to generate chapters based on your interests, topics, and learning environment. Dive into engaging learning units that keep you motivated and excited to learn.</p>
                                         {/* <div className="icon-text-1-group">
                                         <div className="icon-text-1">
                                             <i className="las la-comments"></i>
@@ -295,7 +295,7 @@ const Index = () => {
                                             heading='app features'
                                             subHeading='Learn Your Way, Anytime, Anywhere'
                                         />
-                                        <p className="c-grey">With OLING, learning is not confined to a traditional classroom setting. Our platform allows you to learn on the go. Access our gamified learning units, MCQs, conversations, and texts from your computer, smartphone, or tablet. Whether you have a few minutes or a dedicated study session, OLING is always at your fingertips.</p>
+                                        <p className="c-grey">With DOIA, learning is not confined to a traditional classroom setting. Our platform allows you to learn on the go. Access our gamified learning units, MCQs, conversations, and texts from your computer, smartphone, or tablet. Whether you have a few minutes or a dedicated study session, DOIA is always at your fingertips.</p>
                                         <Button
                                             to="#contact"
                                             content="Get Started"
@@ -371,7 +371,7 @@ const Index = () => {
                                             heading='app features'
                                             subHeading='Engage with Our Intelligent Chatbot'
                                         />
-                                        <p className="c-grey">Practice your language skills and have meaningful conversations with our intelligent chatbot. OLING's chatbot offers free talking options, grammatical advice, and corrections to enhance your language fluency. As you interact with the chatbot, your skill levels are automatically updated, ensuring that your progress is accurately reflected.</p>
+                                        <p className="c-grey">Practice your language skills and have meaningful conversations with our intelligent chatbot. DOIA's chatbot offers free talking options, grammatical advice, and corrections to enhance your language fluency. As you interact with the chatbot, your skill levels are automatically updated, ensuring that your progress is accurately reflected.</p>
                                         <Button
                                             to="#contact"
                                             content="Get Started"
@@ -624,8 +624,8 @@ const Index = () => {
                                 <div className="col-lg-12 offset-lg-0 col-md-8 offset-md-2 col-10 offset-1">
                                     <SectionHeading
                                         icon='las la-cloud-download-alt'
-                                        heading='Download OLING'
-                                        subHeading='Subscribe OLING and get 20% off on your selected plan.'
+                                        heading='Download DOIA'
+                                        subHeading='Subscribe DOIA and get 20% off on your selected plan.'
                                         additionalClasses='center width-71'
                                     />
                                     <DownloadButton color='c-white' />

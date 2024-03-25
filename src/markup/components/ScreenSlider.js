@@ -110,7 +110,7 @@ const ScreenSlider = () => {
                         <div className="screen-section-header">
                             <SectionHeading
                                 icon='las la-tablet'
-                                heading='OLING universal app'
+                                heading='DOIA universal app'
                                 subHeading='Have a look at what’s inside the app.'
                             />
                         </div>
