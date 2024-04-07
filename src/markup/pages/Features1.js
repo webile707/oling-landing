@@ -83,7 +83,7 @@ const Features1 = () => {
                                             <h5>our video</h5>
                                         </div>
                                         <div className="main-heading">
-                                            <h1>DOIA is a fast and secure app that was built for both Android and iOS platforms.</h1>
+                                            <h1>OLING is a fast and secure app that was built for both Android and iOS platforms.</h1>
                                         </div>
                                     </div>
                                     <Button

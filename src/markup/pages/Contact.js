@@ -74,13 +74,13 @@ const Contact = () => {
                                         </div>
                                         <h3 className="c-dark">Email Us</h3>
                                         <p className="c-grey">
-                                            <a href="mailto:media@DOIA.com" className="link-underline link-underline-1">
-                                                <span>media@DOIA.com</span>
+                                            <a href="mailto:media@OLING.co" className="link-underline link-underline-1">
+                                                <span>media@OLING.co</span>
                                             </a>
                                         </p>
                                         <p className="c-grey">
-                                            <a href="mailto:support@DOIA.com" className="link-underline link-underline-1">
-                                                <span>support@DOIA.com</span>
+                                            <a href="mailto:support@OLING.co" className="link-underline link-underline-1">
+                                                <span>support@OLING.co</span>
                                             </a>
                                         </p>
                                     </div>
@@ -93,7 +93,7 @@ const Contact = () => {
                                             <i className="las la-map-marked-alt"></i>
                                         </div>
                                         <h3 className="c-dark">Find Us</h3>
-                                        <p className="c-grey">DOIA, Inc.</p>
+                                        <p className="c-grey">OLING, Inc.</p>
                                         <p className="c-grey">30 Aarhus, Denmark</p>
                                     </div>
                                 </div>

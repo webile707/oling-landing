@@ -18,18 +18,7 @@ const Footer = () => {
                                     <Link to="#">
                                         <img src={logo} alt="footer-logo" />
                                     </Link>
-                                    <p className="c-grey-1">DOIA is the Personalized Language Learning Platform for Fluent Communication. Master a new language with tailored courses, interactive content, and progress tracking.</p>
-                                    <div className="links">
-                                        <a className="link-underline" href="mailto:holub7serhii87@hotmail.com">
-                                            <span>SERHII HOLUB (holub7serhii87@hotmail.com)</span>
-                                        </a>
-                                        <a className="link-underline" href="tel:+1-234-567-890">
-                                            <span>+380 669095712</span>
-                                        </a>
-                                        <a className="link-underline">
-                                            <span>area Khersonska city street Perekopska building 155a flat 18, Kherson, 73009, Ukraine</span>
-                                        </a>
-                                    </div>
+                                    <p className="c-grey-1">OLING is the Personalized Language Learning Platform for Fluent Communication. Master a new language with tailored courses, interactive content, and progress tracking.</p>
                                 </div>
                                 <div className="footer-list footer-social social-gradient">
                                     <h6>Follow</h6>
@@ -126,7 +115,7 @@ const Footer = () => {
                     <div className="row">
                         <div className="col-lg-12 offset-lg-0 col-md-8 offset-md-2 col-10 offset-1">
                             <div className="footer-copyright c-grey-1">
-                                <h6>&copy; DOIA</h6>
+                                <h6>&copy; OLING</h6>
                             </div>
                         </div>
                     </div>
